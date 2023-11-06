@@ -1,5 +1,16 @@
 # clanstats
 
+<table>
+  <tr>
+    <td><img src="topclans.png" alt="Main Page" style="width:500px;"></td>
+    <td><img src="kdrinclan.webp" alt="Completed Tasks" style="width:500px;"></td>
+  </tr>
+  <tr>
+    <td><img src="kdrnotinclan.png" alt="Create Post" style="width:500px;"></td>
+    <td><img src="yourclan.webp" alt="Login Page" style="width:500px;"></td>
+  </tr>
+</table>
+
 ## ClanStats by staticDev
 
 - ClanStats is currently a text based stat tracker for clans and individual players.
